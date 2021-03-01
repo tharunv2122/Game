@@ -1,0 +1,52 @@
+body {
+    background-color :#28527a;
+    color: white;
+    font-family: 'PT Sans';
+  font-style: italic;
+    font-size : 25px;
+}
+h1 {
+    color : white;
+    font-family: arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    text-align : center;
+}
+	a.new { background-color: #28527a;
+    color: white;
+    border: 2px  green;
+    border-style: groove;
+    padding: 9px 19px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block
+  }
+  a.new:hover, a:active{
+    color: white;
+    background-color: #4CAF50;
+
+  }
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #8ac4d0;
+    color: white;
+    text-decoration: none;
+  }
+.button {
+    background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+p.two{
+    text-align : center;
+}
